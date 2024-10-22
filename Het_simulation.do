@@ -1,6 +1,6 @@
 * Set pwd
 
-cd "/Users/martin/Sync/Teaching/Teaching - 2024 PhD1502 Econometrics"
+cd "My Direcrort"
 
 * Log output
 capture log close
