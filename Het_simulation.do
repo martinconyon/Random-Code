@@ -1,6 +1,6 @@
 * Set pwd
 
-cd "My Direcrort"
+cd "change to PWD"
 
 * Log output
 capture log close
